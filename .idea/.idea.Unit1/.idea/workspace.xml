@@ -10,16 +10,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+            <state relative-caret-position="658">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <marker date="1572339354478" expanded="true" signature="6:78" ph="..." />
-                <marker date="1572339354478" expanded="true" signature="125:396" ph="{...}" />
-                <marker date="1572339354478" expanded="true" signature="197:218" ph="{...}" />
-                <marker date="1572339354478" expanded="true" signature="276:394" ph="{...}" />
+                <marker date="1572344937891" expanded="true" signature="6:78" ph="..." />
+                <marker date="1572344937891" expanded="true" signature="125:430" ph="{...}" />
+                <marker date="1572344937891" expanded="true" signature="228:249" ph="{...}" />
+                <marker date="1572344937891" expanded="true" signature="307:428" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <marker date="1572345461465" expanded="false" signature="6:78" ph="..." />
+                <marker date="1572345461465" expanded="true" signature="121:435" ph="{...}" />
+                <marker date="1572345461465" expanded="true" signature="277:298" ph="{...}" />
+                <marker date="1572345461465" expanded="true" signature="356:433" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -27,13 +42,18 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" />
       </list>
     </option>
   </component>
@@ -43,6 +63,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -105,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572338604864</updated>
-      <workItem from="1572338607856" duration="1250000" />
+      <workItem from="1572338607856" duration="1999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1250000" />
+    <option name="totallyTimeSpent" value="1999000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -170,13 +191,26 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+        <state relative-caret-position="658">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <marker date="1572339354478" expanded="true" signature="6:78" ph="..." />
-            <marker date="1572339354478" expanded="true" signature="125:396" ph="{...}" />
-            <marker date="1572339354478" expanded="true" signature="197:218" ph="{...}" />
-            <marker date="1572339354478" expanded="true" signature="276:394" ph="{...}" />
+            <marker date="1572344937891" expanded="true" signature="6:78" ph="..." />
+            <marker date="1572344937891" expanded="true" signature="125:430" ph="{...}" />
+            <marker date="1572344937891" expanded="true" signature="228:249" ph="{...}" />
+            <marker date="1572344937891" expanded="true" signature="307:428" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1572345461465" expanded="false" signature="6:78" ph="..." />
+            <marker date="1572345461465" expanded="true" signature="121:435" ph="{...}" />
+            <marker date="1572345461465" expanded="true" signature="277:298" ph="{...}" />
+            <marker date="1572345461465" expanded="true" signature="356:433" ph="{...}" />
           </folding>
         </state>
       </provider>
